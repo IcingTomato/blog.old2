@@ -7,7 +7,7 @@ permalink: /about/
     <blockquote><p>The first rule of the internet: Don't read the comments.<br>
         <s>sudo rm -rf /* is an eternal pain of Operation & Maintenance. Take care of yourself, and be well.</s> </p></blockquote>
 
-        <h3>About Me</h3>
+        <h5>About Me</h5>
     
         <p>
             The man <s> can use magic </s> who studies Electronic information, Information Security, Computer Science, Japanese, Law, 
@@ -15,7 +15,7 @@ permalink: /about/
         </p>
     
 
-        <h3>Property</h3>
+        <h5>Properties</h5>
 
         <ul>
             <li>Arduino Enthusiast</li> 
@@ -26,11 +26,11 @@ permalink: /about/
             <li><s>(Bugs Loader)</s></li>
         </ul>
     
-        <h3>About this Blog</h3>
+        <h5>About this Blog</h5>
     
         <p>This pages made by <a href="https://pages.github.com/">GitHub Pages</a> and <a href="http://jekyll.com.cn/">Jekyll</a>. </p>
     
-        <h3>Surprise Pages</h3>
+        <h5>Surprise Pages</h5>
 
         <p>
             Here is some pages I designed. In pursuit of absolute simplicity.
@@ -45,7 +45,7 @@ permalink: /about/
             <li><a href="http://ch1hfe1.gitee.io/sosdan/index.html">SOS団のサイト</a></li>
         </ul>
     
-        <h3>Friends</h3>
+        <h5>Friends</h5>
 
         <p>
             Presenting some excellent geeks and my alma mater to you.
