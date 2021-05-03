@@ -6,36 +6,51 @@ permalink: /about/
 <div class="en">
     <blockquote><p>The first rule of the internet: Don't read the comments.<br>
         <s>sudo rm -rf /* is an eternal pain of Operation & Maintenance. Take care of yourself, and be well.</s> </p></blockquote>
-    
-        <h5>About Me</h5>
 
+        <h3>About Me</h3>
+    
         <p>
             The man <s> can use magic </s> who studies Electronic information, Information Security, Computer Science, Japanese, Law, 
             <strong>BUT he is still a Business English student</strong>.
         </p>
     
-        <p>
-            Property: <strong>Arduino Enthusiast/ FPGA Hobbyist/ Display Collector/ Embedded(MPU/MCU/DSP/SoC) Player/ Language(C/C++/Python/Assembly/English/Français/Deutsch/日本語) Amateur</strong>
-            <s>(Bugs Loader)</s>.
-        </p>
 
-        <h5>About this Blog</h5>
+        <h3>Property</h3>
 
+        <ul>
+            <li>Arduino Enthusiast</li> 
+            <li>FPGA Hobbyist</li>
+            <li>Display Collector</li>
+            <li>Embedded(MPU/MCU/DSP/SoC) Player</li>
+            <li>Language(C/C++/Python/Assembly/English/Français/Deutsch/日本語) Amateur</li>
+            <li><s>(Bugs Loader)</s></li>
+        </ul>
+    
+        <h3>About this Blog</h3>
+    
         <p>This pages made by <a href="https://pages.github.com/">GitHub Pages</a> and <a href="http://jekyll.com.cn/">Jekyll</a>. </p>
+    
+        <h3>Surprise Pages</h3>
 
-        <h5>Surprise Pages</h5>
+        <p>
+            Here is some pages I designed. In pursuit of absolute simplicity.
+        </p>
     
         <ul>
             <li><a href="https://panzhifei.fun/2020/">403 page</a></li>
             <li><a href="https://panzhifei.fun/2019">404 page</a></li>
-            <li><a href="https://ch1fe1.gitee.io/chp/index.html">Rainbow Fart Generater</a></li>
-            <li><a href="http://ch1fe1.gitee.io/simple-tool-pages/bilibili-fans/#208259">bilibili fan counter</a></li>
-            <li><a href="http://ch1fe1.gitee.io/simple-tool-pages/flip-clock/">Flip Clock</a></li>
-            <li><a href="http://ch1fe1.gitee.io/sosdan/index.html">SOS団のサイト</a></li>
+            <li><a href="https://ch1hfe1.gitee.io/chp/index.html">Rainbow Fart Generater</a></li>
+            <li><a href="http://ch1hfe1.gitee.io/simple-tool-pages/bilibili-fans/#208259">bilibili fan counter</a></li>
+            <li><a href="http://ch1hfe1.gitee.io/simple-tool-pages/flip-clock/">Flip Clock</a></li>
+            <li><a href="http://ch1hfe1.gitee.io/sosdan/index.html">SOS団のサイト</a></li>
         </ul>
+    
+        <h3>Friends</h3>
 
-        <h5>Friends</h5>
-
+        <p>
+            Presenting some excellent geeks and my alma mater to you.
+        </p>
+    
         <ul>
             <li><a href="https://tuna.moe/">清华大学TUNA协会</a></li>
             <li><a href="https://www.u-tokyo.ac.jp/ja/index.html">東京大学</a></li>
@@ -49,4 +64,5 @@ permalink: /about/
             <li><a href="https://zephray.me/">module ZephRay;</a></li>
             <li><a href="http://www.guzhimian.fun/">谷治眠's code World</a></li>
         </ul>
+        
 </div>
